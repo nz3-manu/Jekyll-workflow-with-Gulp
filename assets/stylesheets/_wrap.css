@@ -1,0 +1,9 @@
+.wrap {
+    width: 440px;
+    height: 440px;
+    background-color: blue;
+    &:hover {
+        background-color: yellow;
+        transform: rotate(45deg);
+    }
+}
