@@ -1,5 +1,5 @@
 # Jekyll-workflow-with-Gulp
 
-Para ejecutar siga los siguientes pasos:
-1) npm install
-2) gulp default
+##Para ejecutar siga los siguientes pasos:
+<li> npm install</li>
+<li> gulp default (para ejecutar el workflow)</li>
